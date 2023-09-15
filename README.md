@@ -1,4 +1,6 @@
-# Kafka_Stock_market
+# Stock Market Real-Time Data Analysis Using Kafka
+###### This project was expired on a video from Darshil Parma (https://www.youtube.com/watch?v=KerNf0NANMo)
+
 A Kafka project that takes information from the Stock Market in real-time from a CSV and stores it on S3 Bucket, and after that can be read from AWS Glue and Athena.
 
 ![image](https://github.com/HOcarlos/Kafka_Stock_market/assets/46444726/1aaf0f66-403e-4e88-997a-fc14dd52d4cb)
